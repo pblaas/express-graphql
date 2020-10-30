@@ -14,6 +14,6 @@ app.use('/graphql', graphqlHTTP({
 }));
 app.use('/voyager', voyagerMiddleware({ endpointUrl: '/graphql' }));
 
-app.listen(80, () => {
-	console.log('now listening on port 80');
+app.listen(4000, () => {
+	console.log('now listening on port 4000');
 })
