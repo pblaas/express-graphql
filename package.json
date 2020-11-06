@@ -1,5 +1,5 @@
 {
-  "name": "graphql",
+  "name": "graphql-express",
   "version": "1.0.0",
   "description": "Test environment GraphQL and express",
   "main": "index.js",
@@ -23,10 +23,10 @@
     "esm": "^3.2.25",
     "express": "^4.17.1",
     "express-graphql": "^0.9.0",
-    "graphql": "^14.6.0",
-    "graphql-voyager": "^1.0.0-rc.29",
+    "graphql": "^14.7.0",
+    "graphql-voyager": "^1.0.0-rc.31",
     "lodash": "^4.17.19",
-    "marked": "^0.8.2",
+    "marked": "^0.8.2"
     "node-fetch": ">=2.6.1"
   },
   "devDependencies": {
