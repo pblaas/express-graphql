@@ -27,7 +27,7 @@
     "graphql-voyager": "^1.0.0-rc.31",
     "lodash": "^4.17.21",
     "marked": "^4.0.10",
-    "node-fetch": ">=2.6.1"
+    "node-fetch": ">=2.6.7"
   },
   "devDependencies": {
     "minimist": "^1.2.5"
